@@ -43,8 +43,6 @@ namespace ResponsiveWeb
                         "~/Content/flexslider.css",
                         "~/Content/font-awesome.css",
                         "~/Content/green.css",
-                        "~/Content/lblue.css",
-                        "~/Content/orange.css",
                         "~/Content/prettyPhoto.css",
                         "~/Content/purple.css",
                         "~/Content/red.css",
